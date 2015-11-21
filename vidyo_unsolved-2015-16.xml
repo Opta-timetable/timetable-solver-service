@@ -1,0 +1,5107 @@
+<?xml version="1.0"?>
+<CourseSchedule id="4">
+    <id>5</id>
+    <name>vidyodaya</name>
+    <teacherList id="2">
+        <Teacher id="9">
+            <id>0</id>
+            <code>FEB</code>
+        </Teacher>
+        <Teacher id="76">
+            <id>1</id>
+            <code>ARU</code>
+        </Teacher>
+        <Teacher id="143">
+            <id>2</id>
+            <code>MAL</code>
+        </Teacher>
+        <Teacher id="153">
+            <id>3</id>
+            <code>UM</code>
+        </Teacher>
+        <Teacher id="157">
+            <id>4</id>
+            <code>JIM</code>
+        </Teacher>
+        <Teacher id="167">
+            <id>5</id>
+            <code>PRA</code>
+        </Teacher>
+        <Teacher id="175">
+            <id>6</id>
+            <code>SYA</code>
+        </Teacher>
+        <Teacher id="197">
+            <id>7</id>
+            <code>SNG</code>
+        </Teacher>
+        <Teacher id="202">
+            <id>8</id>
+            <code>SAR</code>
+        </Teacher>
+        <Teacher id="307">
+            <id>9</id>
+            <code>SN</code>
+        </Teacher>
+        <Teacher id="391">
+            <id>10</id>
+            <code>DEP</code>
+        </Teacher>
+        <Teacher id="424">
+            <id>11</id>
+            <code>ANI</code>
+        </Teacher>
+        <Teacher id="437">
+            <id>12</id>
+            <code>SOB</code>
+        </Teacher>
+        <Teacher id="521">
+            <id>13</id>
+            <code>NK</code>
+        </Teacher>
+        <Teacher id="640">
+            <id>14</id>
+            <code>MD</code>
+        </Teacher>
+        <Teacher id="673">
+            <id>15</id>
+            <code>RES</code>
+        </Teacher>
+        <Teacher id="703">
+            <id>16</id>
+            <code>AM</code>
+        </Teacher>
+    </teacherList>
+    <curriculumList id="1">
+        <Curriculum id="8">
+            <id>0</id>
+            <code>I-A</code>
+        </Curriculum>
+        <Curriculum id="75">
+            <id>1</id>
+            <code>I-B</code>
+        </Curriculum>
+        <Curriculum id="142">
+            <id>2</id>
+            <code>II-A</code>
+        </Curriculum>
+        <Curriculum id="217">
+            <id>3</id>
+            <code>II-B</code>
+        </Curriculum>
+        <Curriculum id="285">
+            <id>4</id>
+            <code>III</code>
+        </Curriculum>
+        <Curriculum id="354">
+            <id>5</id>
+            <code>IV</code>
+        </Curriculum>
+        <Curriculum id="423">
+            <id>6</id>
+            <code>V</code>
+        </Curriculum>
+        <Curriculum id="493">
+            <id>7</id>
+            <code>VI</code>
+        </Curriculum>
+        <Curriculum id="562">
+            <id>8</id>
+            <code>VII</code>
+        </Curriculum>
+        <Curriculum id="630">
+            <id>9</id>
+            <code>VIII</code>
+        </Curriculum>
+        <Curriculum id="702">
+            <id>10</id>
+            <code>IX</code>
+        </Curriculum>
+        <Curriculum id="773">
+            <id>11</id>
+            <code>X</code>
+        </Curriculum>
+    </curriculumList>
+    <courseList id="7">
+        <Course id="11">
+            <id>0</id>
+            <code>ENG</code>
+            <teacher reference="9"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="12">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="20">
+            <id>1</id>
+            <code>MAL</code>
+            <teacher reference="9"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="21">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="29">
+            <id>2</id>
+            <code>HIN</code>
+            <teacher reference="9"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="30">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="35">
+            <id>3</id>
+            <code>MATHS</code>
+            <teacher reference="9"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="36">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="44">
+            <id>4</id>
+            <code>SSC</code>
+            <teacher reference="9"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="45">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="49">
+            <id>5</id>
+            <code>BSC</code>
+            <teacher reference="9"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="50">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="54">
+            <id>6</id>
+            <code>GK</code>
+            <teacher reference="9"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="55">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="57">
+            <id>7</id>
+            <code>IT</code>
+            <teacher reference="9"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="58">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="61">
+            <id>8</id>
+            <code>LIB/GAM</code>
+            <teacher reference="9"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="62">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="64">
+            <id>9</id>
+            <code>AVE</code>
+            <teacher reference="9"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="65">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="67">
+            <id>10</id>
+            <code>CW/DAN</code>
+            <teacher reference="9"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="68">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="71">
+            <id>11</id>
+            <code>BV</code>
+            <teacher reference="9"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="72">
+                <Curriculum reference="8"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="78">
+            <id>12</id>
+            <code>ENG</code>
+            <teacher reference="76"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="79">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="87">
+            <id>13</id>
+            <code>MAL</code>
+            <teacher reference="76"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="88">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="96">
+            <id>14</id>
+            <code>HIN</code>
+            <teacher reference="76"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="97">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="102">
+            <id>15</id>
+            <code>MATHS</code>
+            <teacher reference="76"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="103">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="111">
+            <id>16</id>
+            <code>SSC</code>
+            <teacher reference="76"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="112">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="116">
+            <id>17</id>
+            <code>BSC</code>
+            <teacher reference="76"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="117">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="121">
+            <id>18</id>
+            <code>GK</code>
+            <teacher reference="76"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="122">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="124">
+            <id>19</id>
+            <code>IT</code>
+            <teacher reference="76"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="125">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="128">
+            <id>20</id>
+            <code>LIB/GAM</code>
+            <teacher reference="76"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="129">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="131">
+            <id>21</id>
+            <code>AVE</code>
+            <teacher reference="76"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="132">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="134">
+            <id>22</id>
+            <code>CW/DAN</code>
+            <teacher reference="76"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="135">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="138">
+            <id>23</id>
+            <code>BV</code>
+            <teacher reference="76"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="139">
+                <Curriculum reference="75"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="145">
+            <id>24</id>
+            <code>ENG</code>
+            <teacher reference="143"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="146">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="154">
+            <id>25</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="155">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="158">
+            <id>26</id>
+            <code>MAL</code>
+            <teacher reference="157"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="159">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="168">
+            <id>27</id>
+            <code>HIN</code>
+            <teacher reference="167"/>
+            <lectureSize>5</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="169">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="176">
+            <id>28</id>
+            <code>MATHS</code>
+            <teacher reference="175"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="177">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="184">
+            <id>29</id>
+            <code>SSC</code>
+            <teacher reference="167"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="185">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="189">
+            <id>30</id>
+            <code>BSC</code>
+            <teacher reference="167"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="190">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="194">
+            <id>31</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="195">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="198">
+            <id>32</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="199">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="203">
+            <id>33</id>
+            <code>LIB/GAM</code>
+            <teacher reference="202"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="204">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="206">
+            <id>34</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="207">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="209">
+            <id>35</id>
+            <code>CW/DAN</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="210">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="213">
+            <id>36</id>
+            <code>BV</code>
+            <teacher reference="167"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="214">
+                <Curriculum reference="142"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="219">
+            <id>37</id>
+            <code>ENG</code>
+            <teacher reference="143"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="220">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="227">
+            <id>38</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="228">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="230">
+            <id>39</id>
+            <code>MAL</code>
+            <teacher reference="157"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="231">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="239">
+            <id>40</id>
+            <code>HIN</code>
+            <teacher reference="167"/>
+            <lectureSize>5</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="240">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="246">
+            <id>41</id>
+            <code>MATHS</code>
+            <teacher reference="175"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="247">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="254">
+            <id>42</id>
+            <code>SSC</code>
+            <teacher reference="167"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="255">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="259">
+            <id>43</id>
+            <code>BSC</code>
+            <teacher reference="167"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="260">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="264">
+            <id>44</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="265">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="267">
+            <id>45</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="268">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="271">
+            <id>46</id>
+            <code>LIB/GAM</code>
+            <teacher reference="202"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="272">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="274">
+            <id>47</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="275">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="277">
+            <id>48</id>
+            <code>CW/DAN</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="278">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="281">
+            <id>49</id>
+            <code>BV</code>
+            <teacher reference="175"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="282">
+                <Curriculum reference="217"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="287">
+            <id>50</id>
+            <code>ENG</code>
+            <teacher reference="143"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="288">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="295">
+            <id>51</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="296">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="298">
+            <id>52</id>
+            <code>MAL</code>
+            <teacher reference="157"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="299">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="308">
+            <id>53</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="309">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="314">
+            <id>54</id>
+            <code>MATHS</code>
+            <teacher reference="175"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="315">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="323">
+            <id>55</id>
+            <code>SSC</code>
+            <teacher reference="157"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="324">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="328">
+            <id>56</id>
+            <code>BSC</code>
+            <teacher reference="202"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="329">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="333">
+            <id>57</id>
+            <code>GK</code>
+            <teacher reference="143"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="334">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="336">
+            <id>58</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="337">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="340">
+            <id>59</id>
+            <code>LIB/GAM</code>
+            <teacher reference="202"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="341">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="343">
+            <id>60</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="344">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="346">
+            <id>61</id>
+            <code>CW/DAN</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="347">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="350">
+            <id>62</id>
+            <code>BV</code>
+            <teacher reference="157"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="351">
+                <Curriculum reference="285"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="356">
+            <id>63</id>
+            <code>ENG</code>
+            <teacher reference="143"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="357">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="364">
+            <id>64</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="365">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="367">
+            <id>65</id>
+            <code>MAL</code>
+            <teacher reference="157"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="368">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="376">
+            <id>66</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="377">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="382">
+            <id>67</id>
+            <code>MATHS</code>
+            <teacher reference="175"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="383">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="392">
+            <id>68</id>
+            <code>SSC</code>
+            <teacher reference="391"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="393">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="397">
+            <id>69</id>
+            <code>BSC</code>
+            <teacher reference="202"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="398">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="402">
+            <id>70</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="403">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="405">
+            <id>71</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="406">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="409">
+            <id>72</id>
+            <code>LIB/GAM</code>
+            <teacher reference="143"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="410">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="412">
+            <id>73</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="413">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="415">
+            <id>74</id>
+            <code>CW/DAN</code>
+            <teacher reference="167"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="416">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="419">
+            <id>75</id>
+            <code>BV</code>
+            <teacher reference="143"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="420">
+                <Curriculum reference="354"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="426">
+            <id>76</id>
+            <code>ENG</code>
+            <teacher reference="424"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="427">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="434">
+            <id>77</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="435">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="438">
+            <id>78</id>
+            <code>MAL</code>
+            <teacher reference="437"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="439">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="447">
+            <id>79</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="448">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="453">
+            <id>80</id>
+            <code>MATHS</code>
+            <teacher reference="175"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="454">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="462">
+            <id>81</id>
+            <code>SSC</code>
+            <teacher reference="391"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="463">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="467">
+            <id>82</id>
+            <code>BSC</code>
+            <teacher reference="202"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="468">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="472">
+            <id>83</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="473">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="475">
+            <id>84</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="476">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="479">
+            <id>85</id>
+            <code>LIB/GAM</code>
+            <teacher reference="143"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="480">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="482">
+            <id>86</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="483">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="485">
+            <id>87</id>
+            <code>CW/DAN</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="486">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="489">
+            <id>88</id>
+            <code>BV</code>
+            <teacher reference="437"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="490">
+                <Curriculum reference="423"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="495">
+            <id>89</id>
+            <code>ENG</code>
+            <teacher reference="424"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="496">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="503">
+            <id>90</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="504">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="506">
+            <id>91</id>
+            <code>MAL</code>
+            <teacher reference="437"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="507">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="515">
+            <id>92</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="516">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="522">
+            <id>93</id>
+            <code>MATHS</code>
+            <teacher reference="521"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="523">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="531">
+            <id>94</id>
+            <code>SSC</code>
+            <teacher reference="391"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="532">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="536">
+            <id>95</id>
+            <code>BSC</code>
+            <teacher reference="202"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="537">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="541">
+            <id>96</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="542">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="544">
+            <id>97</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="545">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="548">
+            <id>98</id>
+            <code>LIB/GAM</code>
+            <teacher reference="391"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="549">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="551">
+            <id>99</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="552">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="554">
+            <id>100</id>
+            <code>CW/DAN</code>
+            <teacher reference="143"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="555">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="558">
+            <id>101</id>
+            <code>BV</code>
+            <teacher reference="307"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="559">
+                <Curriculum reference="493"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="564">
+            <id>102</id>
+            <code>ENG</code>
+            <teacher reference="424"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="565">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="572">
+            <id>103</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="153"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="573">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="575">
+            <id>104</id>
+            <code>MAL</code>
+            <teacher reference="437"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="576">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="584">
+            <id>105</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="585">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="590">
+            <id>106</id>
+            <code>MATHS</code>
+            <teacher reference="521"/>
+            <lectureSize>7</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="591">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="599">
+            <id>107</id>
+            <code>SSC</code>
+            <teacher reference="391"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="600">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="604">
+            <id>108</id>
+            <code>BSC</code>
+            <teacher reference="202"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="605">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="609">
+            <id>109</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="610">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="612">
+            <id>110</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="613">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="616">
+            <id>111</id>
+            <code>LIB/GAM</code>
+            <teacher reference="391"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="617">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="619">
+            <id>112</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="620">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="622">
+            <id>113</id>
+            <code>CW/DAN</code>
+            <teacher reference="143"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="623">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="626">
+            <id>114</id>
+            <code>BV</code>
+            <teacher reference="391"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="627">
+                <Curriculum reference="562"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="632">
+            <id>115</id>
+            <code>ENG</code>
+            <teacher reference="424"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="633">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="641">
+            <id>116</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="640"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="642">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="644">
+            <id>117</id>
+            <code>MAL</code>
+            <teacher reference="437"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="645">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="652">
+            <id>118</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="653">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="658">
+            <id>119</id>
+            <code>MATHS</code>
+            <teacher reference="521"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="659">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="666">
+            <id>120</id>
+            <code>SSC</code>
+            <teacher reference="391"/>
+            <lectureSize>5</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="667">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="674">
+            <id>121</id>
+            <code>PHY</code>
+            <teacher reference="673"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="675">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="678">
+            <id>122</id>
+            <code>CHEM</code>
+            <teacher reference="673"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="679">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="681">
+            <id>123</id>
+            <code>BIO</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="682">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="685">
+            <id>124</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="686">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="688">
+            <id>125</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="689">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="692">
+            <id>126</id>
+            <code>LIB/GAM</code>
+            <teacher reference="391"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="693">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="695">
+            <id>127</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="696">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="698">
+            <id>128</id>
+            <code>BV</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="699">
+                <Curriculum reference="630"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="705">
+            <id>129</id>
+            <code>ENG</code>
+            <teacher reference="703"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="706">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="713">
+            <id>130</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="640"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="714">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="716">
+            <id>131</id>
+            <code>MAL</code>
+            <teacher reference="437"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="717">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="724">
+            <id>132</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="725">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="730">
+            <id>133</id>
+            <code>MATHS</code>
+            <teacher reference="521"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="731">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="738">
+            <id>134</id>
+            <code>SSC</code>
+            <teacher reference="391"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="739">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="744">
+            <id>135</id>
+            <code>PHY</code>
+            <teacher reference="673"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="745">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="748">
+            <id>136</id>
+            <code>CHEM</code>
+            <teacher reference="673"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="749">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="752">
+            <id>137</id>
+            <code>BIO</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="753">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="756">
+            <id>138</id>
+            <code>GK</code>
+            <teacher reference="167"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="757">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="759">
+            <id>139</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="760">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="763">
+            <id>140</id>
+            <code>LIB/GAM</code>
+            <teacher reference="391"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="764">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="766">
+            <id>141</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="767">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="769">
+            <id>142</id>
+            <code>BV</code>
+            <teacher reference="521"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="770">
+                <Curriculum reference="702"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="775">
+            <id>143</id>
+            <code>ENG</code>
+            <teacher reference="703"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="776">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="783">
+            <id>144</id>
+            <code>ENG.GRMR</code>
+            <teacher reference="640"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="784">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="786">
+            <id>145</id>
+            <code>MAL</code>
+            <teacher reference="391"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="787">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="792">
+            <id>146</id>
+            <code>HIN</code>
+            <teacher reference="307"/>
+            <lectureSize>4</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="793">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="798">
+            <id>147</id>
+            <code>MATHS</code>
+            <teacher reference="521"/>
+            <lectureSize>6</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="799">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="806">
+            <id>148</id>
+            <code>SSC</code>
+            <teacher reference="640"/>
+            <lectureSize>5</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="807">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="813">
+            <id>149</id>
+            <code>PHY</code>
+            <teacher reference="673"/>
+            <lectureSize>3</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="814">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="818">
+            <id>150</id>
+            <code>CHEM</code>
+            <teacher reference="673"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="819">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="822">
+            <id>151</id>
+            <code>BIO</code>
+            <teacher reference="202"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="823">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="826">
+            <id>152</id>
+            <code>GK</code>
+            <teacher reference="640"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="827">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="829">
+            <id>153</id>
+            <code>IT</code>
+            <teacher reference="197"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="830">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="833">
+            <id>154</id>
+            <code>LIB/GAM</code>
+            <teacher reference="202"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="834">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="836">
+            <id>155</id>
+            <code>AVE</code>
+            <teacher reference="197"/>
+            <lectureSize>1</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="837">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+        <Course id="839">
+            <id>156</id>
+            <code>BV</code>
+            <teacher reference="424"/>
+            <lectureSize>2</lectureSize>
+            <minWorkingDaySize>4</minWorkingDaySize>
+            <curriculumList id="840">
+                <Curriculum reference="773"/>
+            </curriculumList>
+            <studentSize>20</studentSize>
+        </Course>
+    </courseList>
+    <dayList id="843">
+        <Day id="844">
+            <id>0</id>
+            <dayIndex>0</dayIndex>
+            <periodList id="845">
+                <Period id="846">
+                    <id>0</id>
+                    <day reference="844"/>
+                    <timeslot id="847">
+                        <id>0</id>
+                        <timeslotIndex>0</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="848">
+                    <id>1</id>
+                    <day reference="844"/>
+                    <timeslot id="849">
+                        <id>1</id>
+                        <timeslotIndex>1</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="850">
+                    <id>2</id>
+                    <day reference="844"/>
+                    <timeslot id="851">
+                        <id>2</id>
+                        <timeslotIndex>2</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="852">
+                    <id>3</id>
+                    <day reference="844"/>
+                    <timeslot id="853">
+                        <id>3</id>
+                        <timeslotIndex>3</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="854">
+                    <id>4</id>
+                    <day reference="844"/>
+                    <timeslot id="855">
+                        <id>4</id>
+                        <timeslotIndex>4</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="856">
+                    <id>5</id>
+                    <day reference="844"/>
+                    <timeslot id="857">
+                        <id>5</id>
+                        <timeslotIndex>5</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="858">
+                    <id>6</id>
+                    <day reference="844"/>
+                    <timeslot id="859">
+                        <id>6</id>
+                        <timeslotIndex>6</timeslotIndex>
+                    </timeslot>
+                </Period>
+                <Period id="860">
+                    <id>7</id>
+                    <day reference="844"/>
+                    <timeslot id="861">
+                        <id>7</id>
+                        <timeslotIndex>7</timeslotIndex>
+                    </timeslot>
+                </Period>
+            </periodList>
+        </Day>
+        <Day id="862">
+            <id>1</id>
+            <dayIndex>1</dayIndex>
+            <periodList id="863">
+                <Period id="864">
+                    <id>0</id>
+                    <day reference="862"/>
+                    <timeslot reference="847"/>
+                </Period>
+                <Period id="865">
+                    <id>2</id>
+                    <day reference="862"/>
+                    <timeslot reference="849"/>
+                </Period>
+                <Period id="866">
+                    <id>4</id>
+                    <day reference="862"/>
+                    <timeslot reference="851"/>
+                </Period>
+                <Period id="867">
+                    <id>6</id>
+                    <day reference="862"/>
+                    <timeslot reference="853"/>
+                </Period>
+                <Period id="868">
+                    <id>8</id>
+                    <day reference="862"/>
+                    <timeslot reference="855"/>
+                </Period>
+                <Period id="869">
+                    <id>10</id>
+                    <day reference="862"/>
+                    <timeslot reference="857"/>
+                </Period>
+                <Period id="870">
+                    <id>12</id>
+                    <day reference="862"/>
+                    <timeslot reference="859"/>
+                </Period>
+                <Period id="871">
+                    <id>14</id>
+                    <day reference="862"/>
+                    <timeslot reference="861"/>
+                </Period>
+            </periodList>
+        </Day>
+        <Day id="872">
+            <id>2</id>
+            <dayIndex>2</dayIndex>
+            <periodList id="873">
+                <Period id="874">
+                    <id>0</id>
+                    <day reference="872"/>
+                    <timeslot reference="847"/>
+                </Period>
+                <Period id="875">
+                    <id>3</id>
+                    <day reference="872"/>
+                    <timeslot reference="849"/>
+                </Period>
+                <Period id="876">
+                    <id>6</id>
+                    <day reference="872"/>
+                    <timeslot reference="851"/>
+                </Period>
+                <Period id="877">
+                    <id>9</id>
+                    <day reference="872"/>
+                    <timeslot reference="853"/>
+                </Period>
+                <Period id="878">
+                    <id>12</id>
+                    <day reference="872"/>
+                    <timeslot reference="855"/>
+                </Period>
+                <Period id="879">
+                    <id>15</id>
+                    <day reference="872"/>
+                    <timeslot reference="857"/>
+                </Period>
+                <Period id="880">
+                    <id>18</id>
+                    <day reference="872"/>
+                    <timeslot reference="859"/>
+                </Period>
+                <Period id="881">
+                    <id>21</id>
+                    <day reference="872"/>
+                    <timeslot reference="861"/>
+                </Period>
+            </periodList>
+        </Day>
+        <Day id="882">
+            <id>3</id>
+            <dayIndex>3</dayIndex>
+            <periodList id="883">
+                <Period id="884">
+                    <id>0</id>
+                    <day reference="882"/>
+                    <timeslot reference="847"/>
+                </Period>
+                <Period id="885">
+                    <id>4</id>
+                    <day reference="882"/>
+                    <timeslot reference="849"/>
+                </Period>
+                <Period id="886">
+                    <id>8</id>
+                    <day reference="882"/>
+                    <timeslot reference="851"/>
+                </Period>
+                <Period id="887">
+                    <id>12</id>
+                    <day reference="882"/>
+                    <timeslot reference="853"/>
+                </Period>
+                <Period id="888">
+                    <id>16</id>
+                    <day reference="882"/>
+                    <timeslot reference="855"/>
+                </Period>
+                <Period id="889">
+                    <id>20</id>
+                    <day reference="882"/>
+                    <timeslot reference="857"/>
+                </Period>
+                <Period id="890">
+                    <id>24</id>
+                    <day reference="882"/>
+                    <timeslot reference="859"/>
+                </Period>
+                <Period id="891">
+                    <id>28</id>
+                    <day reference="882"/>
+                    <timeslot reference="861"/>
+                </Period>
+            </periodList>
+        </Day>
+        <Day id="892">
+            <id>4</id>
+            <dayIndex>4</dayIndex>
+            <periodList id="893">
+                <Period id="894">
+                    <id>0</id>
+                    <day reference="892"/>
+                    <timeslot reference="847"/>
+                </Period>
+                <Period id="895">
+                    <id>5</id>
+                    <day reference="892"/>
+                    <timeslot reference="849"/>
+                </Period>
+                <Period id="896">
+                    <id>10</id>
+                    <day reference="892"/>
+                    <timeslot reference="851"/>
+                </Period>
+                <Period id="897">
+                    <id>15</id>
+                    <day reference="892"/>
+                    <timeslot reference="853"/>
+                </Period>
+                <Period id="898">
+                    <id>20</id>
+                    <day reference="892"/>
+                    <timeslot reference="855"/>
+                </Period>
+                <Period id="899">
+                    <id>25</id>
+                    <day reference="892"/>
+                    <timeslot reference="857"/>
+                </Period>
+                <Period id="900">
+                    <id>30</id>
+                    <day reference="892"/>
+                    <timeslot reference="859"/>
+                </Period>
+                <Period id="901">
+                    <id>35</id>
+                    <day reference="892"/>
+                    <timeslot reference="861"/>
+                </Period>
+            </periodList>
+        </Day>
+    </dayList>
+    <timeslotList id="902">
+        <Timeslot reference="847"/>
+        <Timeslot reference="849"/>
+        <Timeslot reference="851"/>
+        <Timeslot reference="853"/>
+        <Timeslot reference="855"/>
+        <Timeslot reference="857"/>
+        <Timeslot reference="859"/>
+        <Timeslot reference="861"/>
+    </timeslotList>
+    <periodList id="903">
+        <Period reference="846"/>
+        <Period reference="848"/>
+        <Period reference="850"/>
+        <Period reference="852"/>
+        <Period reference="854"/>
+        <Period reference="856"/>
+        <Period reference="858"/>
+        <Period reference="860"/>
+        <Period reference="864"/>
+        <Period reference="865"/>
+        <Period reference="866"/>
+        <Period reference="867"/>
+        <Period reference="868"/>
+        <Period reference="869"/>
+        <Period reference="870"/>
+        <Period reference="871"/>
+        <Period reference="874"/>
+        <Period reference="875"/>
+        <Period reference="876"/>
+        <Period reference="877"/>
+        <Period reference="878"/>
+        <Period reference="879"/>
+        <Period reference="880"/>
+        <Period reference="881"/>
+        <Period reference="884"/>
+        <Period reference="885"/>
+        <Period reference="886"/>
+        <Period reference="887"/>
+        <Period reference="888"/>
+        <Period reference="889"/>
+        <Period reference="890"/>
+        <Period reference="891"/>
+        <Period reference="894"/>
+        <Period reference="895"/>
+        <Period reference="896"/>
+        <Period reference="897"/>
+        <Period reference="898"/>
+        <Period reference="899"/>
+        <Period reference="900"/>
+        <Period reference="901"/>
+    </periodList>
+    <unavailablePeriodPenaltyList id="904"/>
+    <roomList id="6">
+        <Room id="10">
+            <id>0</id>
+            <code>I-A</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="77">
+            <id>1</id>
+            <code>I-B</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="144">
+            <id>2</id>
+            <code>II-A</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="218">
+            <id>3</id>
+            <code>II-B</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="286">
+            <id>4</id>
+            <code>III</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="355">
+            <id>5</id>
+            <code>IV</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="425">
+            <id>6</id>
+            <code>V</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="494">
+            <id>7</id>
+            <code>VI</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="563">
+            <id>8</id>
+            <code>VII</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="631">
+            <id>9</id>
+            <code>VIII</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="704">
+            <id>10</id>
+            <code>IX</code>
+            <capacity>100</capacity>
+        </Room>
+        <Room id="774">
+            <id>11</id>
+            <code>X</code>
+            <capacity>100</capacity>
+        </Room>
+    </roomList>
+    <lectureList id="3">
+        <Lecture id="13">
+            <id>0</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="14">
+            <id>1</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="15">
+            <id>2</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="16">
+            <id>3</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="17">
+            <id>4</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="18">
+            <id>5</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="19">
+            <id>6</id>
+            <course reference="11"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="22">
+            <id>7</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="23">
+            <id>8</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="24">
+            <id>9</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="25">
+            <id>10</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="26">
+            <id>11</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="27">
+            <id>12</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="28">
+            <id>13</id>
+            <course reference="20"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="31">
+            <id>14</id>
+            <course reference="29"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="32">
+            <id>15</id>
+            <course reference="29"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="33">
+            <id>16</id>
+            <course reference="29"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="34">
+            <id>17</id>
+            <course reference="29"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="37">
+            <id>18</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="38">
+            <id>19</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="39">
+            <id>20</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="40">
+            <id>21</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="41">
+            <id>22</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="42">
+            <id>23</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="43">
+            <id>24</id>
+            <course reference="35"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="46">
+            <id>25</id>
+            <course reference="44"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="47">
+            <id>26</id>
+            <course reference="44"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="48">
+            <id>27</id>
+            <course reference="44"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="51">
+            <id>28</id>
+            <course reference="49"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="52">
+            <id>29</id>
+            <course reference="49"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="53">
+            <id>30</id>
+            <course reference="49"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="56">
+            <id>31</id>
+            <course reference="54"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="59">
+            <id>32</id>
+            <course reference="57"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="60">
+            <id>33</id>
+            <course reference="57"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="63">
+            <id>34</id>
+            <course reference="61"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="66">
+            <id>35</id>
+            <course reference="64"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="69">
+            <id>36</id>
+            <course reference="67"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="70">
+            <id>37</id>
+            <course reference="67"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="73">
+            <id>38</id>
+            <course reference="71"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="74">
+            <id>39</id>
+            <course reference="71"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="80">
+            <id>40</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="81">
+            <id>41</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="82">
+            <id>42</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="83">
+            <id>43</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="84">
+            <id>44</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="85">
+            <id>45</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="86">
+            <id>46</id>
+            <course reference="78"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="89">
+            <id>47</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="90">
+            <id>48</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="91">
+            <id>49</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="92">
+            <id>50</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="93">
+            <id>51</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="94">
+            <id>52</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="95">
+            <id>53</id>
+            <course reference="87"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="98">
+            <id>54</id>
+            <course reference="96"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="99">
+            <id>55</id>
+            <course reference="96"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="100">
+            <id>56</id>
+            <course reference="96"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="101">
+            <id>57</id>
+            <course reference="96"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="104">
+            <id>58</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="105">
+            <id>59</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="106">
+            <id>60</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="107">
+            <id>61</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="108">
+            <id>62</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="109">
+            <id>63</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="110">
+            <id>64</id>
+            <course reference="102"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="113">
+            <id>65</id>
+            <course reference="111"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="114">
+            <id>66</id>
+            <course reference="111"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="115">
+            <id>67</id>
+            <course reference="111"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="118">
+            <id>68</id>
+            <course reference="116"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="119">
+            <id>69</id>
+            <course reference="116"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="120">
+            <id>70</id>
+            <course reference="116"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="123">
+            <id>71</id>
+            <course reference="121"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="126">
+            <id>72</id>
+            <course reference="124"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="127">
+            <id>73</id>
+            <course reference="124"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="130">
+            <id>74</id>
+            <course reference="128"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="133">
+            <id>75</id>
+            <course reference="131"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="136">
+            <id>76</id>
+            <course reference="134"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="137">
+            <id>77</id>
+            <course reference="134"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="140">
+            <id>78</id>
+            <course reference="138"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="141">
+            <id>79</id>
+            <course reference="138"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="147">
+            <id>80</id>
+            <course reference="145"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="148">
+            <id>81</id>
+            <course reference="145"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="149">
+            <id>82</id>
+            <course reference="145"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="150">
+            <id>83</id>
+            <course reference="145"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="151">
+            <id>84</id>
+            <course reference="145"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="152">
+            <id>85</id>
+            <course reference="145"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="156">
+            <id>86</id>
+            <course reference="154"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="160">
+            <id>87</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="161">
+            <id>88</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="162">
+            <id>89</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="163">
+            <id>90</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="164">
+            <id>91</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="165">
+            <id>92</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="166">
+            <id>93</id>
+            <course reference="158"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="170">
+            <id>94</id>
+            <course reference="168"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="171">
+            <id>95</id>
+            <course reference="168"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="172">
+            <id>96</id>
+            <course reference="168"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="173">
+            <id>97</id>
+            <course reference="168"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="174">
+            <id>98</id>
+            <course reference="168"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="178">
+            <id>99</id>
+            <course reference="176"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="179">
+            <id>100</id>
+            <course reference="176"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="180">
+            <id>101</id>
+            <course reference="176"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="181">
+            <id>102</id>
+            <course reference="176"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="182">
+            <id>103</id>
+            <course reference="176"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="183">
+            <id>104</id>
+            <course reference="176"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="186">
+            <id>105</id>
+            <course reference="184"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="187">
+            <id>106</id>
+            <course reference="184"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="188">
+            <id>107</id>
+            <course reference="184"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="191">
+            <id>108</id>
+            <course reference="189"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="192">
+            <id>109</id>
+            <course reference="189"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="193">
+            <id>110</id>
+            <course reference="189"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="196">
+            <id>111</id>
+            <course reference="194"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="200">
+            <id>112</id>
+            <course reference="198"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="201">
+            <id>113</id>
+            <course reference="198"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="205">
+            <id>114</id>
+            <course reference="203"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="208">
+            <id>115</id>
+            <course reference="206"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="211">
+            <id>116</id>
+            <course reference="209"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="212">
+            <id>117</id>
+            <course reference="209"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="215">
+            <id>118</id>
+            <course reference="213"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="216">
+            <id>119</id>
+            <course reference="213"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="221">
+            <id>120</id>
+            <course reference="219"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="222">
+            <id>121</id>
+            <course reference="219"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="223">
+            <id>122</id>
+            <course reference="219"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="224">
+            <id>123</id>
+            <course reference="219"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="225">
+            <id>124</id>
+            <course reference="219"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="226">
+            <id>125</id>
+            <course reference="219"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="229">
+            <id>126</id>
+            <course reference="227"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="232">
+            <id>127</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="233">
+            <id>128</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="234">
+            <id>129</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="235">
+            <id>130</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="236">
+            <id>131</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="237">
+            <id>132</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="238">
+            <id>133</id>
+            <course reference="230"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="241">
+            <id>134</id>
+            <course reference="239"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="242">
+            <id>135</id>
+            <course reference="239"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="243">
+            <id>136</id>
+            <course reference="239"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="244">
+            <id>137</id>
+            <course reference="239"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="245">
+            <id>138</id>
+            <course reference="239"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="248">
+            <id>139</id>
+            <course reference="246"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="249">
+            <id>140</id>
+            <course reference="246"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="250">
+            <id>141</id>
+            <course reference="246"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="251">
+            <id>142</id>
+            <course reference="246"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="252">
+            <id>143</id>
+            <course reference="246"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="253">
+            <id>144</id>
+            <course reference="246"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="256">
+            <id>145</id>
+            <course reference="254"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="257">
+            <id>146</id>
+            <course reference="254"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="258">
+            <id>147</id>
+            <course reference="254"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="261">
+            <id>148</id>
+            <course reference="259"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="262">
+            <id>149</id>
+            <course reference="259"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="263">
+            <id>150</id>
+            <course reference="259"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="266">
+            <id>151</id>
+            <course reference="264"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="269">
+            <id>152</id>
+            <course reference="267"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="270">
+            <id>153</id>
+            <course reference="267"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="273">
+            <id>154</id>
+            <course reference="271"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="276">
+            <id>155</id>
+            <course reference="274"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="279">
+            <id>156</id>
+            <course reference="277"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="280">
+            <id>157</id>
+            <course reference="277"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="283">
+            <id>158</id>
+            <course reference="281"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="284">
+            <id>159</id>
+            <course reference="281"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="289">
+            <id>160</id>
+            <course reference="287"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="290">
+            <id>161</id>
+            <course reference="287"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="291">
+            <id>162</id>
+            <course reference="287"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="292">
+            <id>163</id>
+            <course reference="287"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="293">
+            <id>164</id>
+            <course reference="287"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="294">
+            <id>165</id>
+            <course reference="287"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="297">
+            <id>166</id>
+            <course reference="295"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="300">
+            <id>167</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="301">
+            <id>168</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="302">
+            <id>169</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="303">
+            <id>170</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="304">
+            <id>171</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="305">
+            <id>172</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="306">
+            <id>173</id>
+            <course reference="298"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="310">
+            <id>174</id>
+            <course reference="308"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="311">
+            <id>175</id>
+            <course reference="308"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="312">
+            <id>176</id>
+            <course reference="308"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="313">
+            <id>177</id>
+            <course reference="308"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="316">
+            <id>178</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="317">
+            <id>179</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="318">
+            <id>180</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="319">
+            <id>181</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="320">
+            <id>182</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="321">
+            <id>183</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="322">
+            <id>184</id>
+            <course reference="314"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="325">
+            <id>185</id>
+            <course reference="323"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="326">
+            <id>186</id>
+            <course reference="323"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="327">
+            <id>187</id>
+            <course reference="323"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="330">
+            <id>188</id>
+            <course reference="328"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="331">
+            <id>189</id>
+            <course reference="328"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="332">
+            <id>190</id>
+            <course reference="328"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="335">
+            <id>191</id>
+            <course reference="333"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="338">
+            <id>192</id>
+            <course reference="336"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="339">
+            <id>193</id>
+            <course reference="336"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="342">
+            <id>194</id>
+            <course reference="340"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="345">
+            <id>195</id>
+            <course reference="343"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="348">
+            <id>196</id>
+            <course reference="346"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="349">
+            <id>197</id>
+            <course reference="346"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="352">
+            <id>198</id>
+            <course reference="350"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="353">
+            <id>199</id>
+            <course reference="350"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="358">
+            <id>200</id>
+            <course reference="356"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="359">
+            <id>201</id>
+            <course reference="356"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="360">
+            <id>202</id>
+            <course reference="356"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="361">
+            <id>203</id>
+            <course reference="356"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="362">
+            <id>204</id>
+            <course reference="356"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="363">
+            <id>205</id>
+            <course reference="356"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="366">
+            <id>206</id>
+            <course reference="364"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="369">
+            <id>207</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="370">
+            <id>208</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="371">
+            <id>209</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="372">
+            <id>210</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="373">
+            <id>211</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="374">
+            <id>212</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="375">
+            <id>213</id>
+            <course reference="367"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="378">
+            <id>214</id>
+            <course reference="376"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="379">
+            <id>215</id>
+            <course reference="376"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="380">
+            <id>216</id>
+            <course reference="376"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="381">
+            <id>217</id>
+            <course reference="376"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="384">
+            <id>218</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="385">
+            <id>219</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="386">
+            <id>220</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="387">
+            <id>221</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="388">
+            <id>222</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="389">
+            <id>223</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="390">
+            <id>224</id>
+            <course reference="382"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="394">
+            <id>225</id>
+            <course reference="392"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="395">
+            <id>226</id>
+            <course reference="392"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="396">
+            <id>227</id>
+            <course reference="392"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="399">
+            <id>228</id>
+            <course reference="397"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="400">
+            <id>229</id>
+            <course reference="397"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="401">
+            <id>230</id>
+            <course reference="397"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="404">
+            <id>231</id>
+            <course reference="402"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="407">
+            <id>232</id>
+            <course reference="405"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="408">
+            <id>233</id>
+            <course reference="405"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="411">
+            <id>234</id>
+            <course reference="409"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="414">
+            <id>235</id>
+            <course reference="412"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="417">
+            <id>236</id>
+            <course reference="415"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="418">
+            <id>237</id>
+            <course reference="415"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="421">
+            <id>238</id>
+            <course reference="419"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="422">
+            <id>239</id>
+            <course reference="419"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="428">
+            <id>240</id>
+            <course reference="426"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="429">
+            <id>241</id>
+            <course reference="426"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="430">
+            <id>242</id>
+            <course reference="426"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="431">
+            <id>243</id>
+            <course reference="426"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="432">
+            <id>244</id>
+            <course reference="426"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="433">
+            <id>245</id>
+            <course reference="426"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="436">
+            <id>246</id>
+            <course reference="434"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="440">
+            <id>247</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="441">
+            <id>248</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="442">
+            <id>249</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="443">
+            <id>250</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="444">
+            <id>251</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="445">
+            <id>252</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="446">
+            <id>253</id>
+            <course reference="438"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="449">
+            <id>254</id>
+            <course reference="447"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="450">
+            <id>255</id>
+            <course reference="447"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="451">
+            <id>256</id>
+            <course reference="447"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="452">
+            <id>257</id>
+            <course reference="447"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="455">
+            <id>258</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="456">
+            <id>259</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="457">
+            <id>260</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="458">
+            <id>261</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="459">
+            <id>262</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="460">
+            <id>263</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="461">
+            <id>264</id>
+            <course reference="453"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="464">
+            <id>265</id>
+            <course reference="462"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="465">
+            <id>266</id>
+            <course reference="462"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="466">
+            <id>267</id>
+            <course reference="462"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="469">
+            <id>268</id>
+            <course reference="467"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="470">
+            <id>269</id>
+            <course reference="467"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="471">
+            <id>270</id>
+            <course reference="467"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="474">
+            <id>271</id>
+            <course reference="472"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="477">
+            <id>272</id>
+            <course reference="475"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="478">
+            <id>273</id>
+            <course reference="475"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="481">
+            <id>274</id>
+            <course reference="479"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="484">
+            <id>275</id>
+            <course reference="482"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="487">
+            <id>276</id>
+            <course reference="485"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="488">
+            <id>277</id>
+            <course reference="485"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="491">
+            <id>278</id>
+            <course reference="489"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="492">
+            <id>279</id>
+            <course reference="489"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="497">
+            <id>280</id>
+            <course reference="495"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="498">
+            <id>281</id>
+            <course reference="495"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="499">
+            <id>282</id>
+            <course reference="495"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="500">
+            <id>283</id>
+            <course reference="495"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="501">
+            <id>284</id>
+            <course reference="495"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="502">
+            <id>285</id>
+            <course reference="495"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="505">
+            <id>286</id>
+            <course reference="503"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="508">
+            <id>287</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="509">
+            <id>288</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="510">
+            <id>289</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="511">
+            <id>290</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="512">
+            <id>291</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="513">
+            <id>292</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="514">
+            <id>293</id>
+            <course reference="506"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="517">
+            <id>294</id>
+            <course reference="515"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="518">
+            <id>295</id>
+            <course reference="515"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="519">
+            <id>296</id>
+            <course reference="515"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="520">
+            <id>297</id>
+            <course reference="515"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="524">
+            <id>298</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="525">
+            <id>299</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="526">
+            <id>300</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="527">
+            <id>301</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="528">
+            <id>302</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="529">
+            <id>303</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="530">
+            <id>304</id>
+            <course reference="522"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="533">
+            <id>305</id>
+            <course reference="531"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="534">
+            <id>306</id>
+            <course reference="531"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="535">
+            <id>307</id>
+            <course reference="531"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="538">
+            <id>308</id>
+            <course reference="536"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="539">
+            <id>309</id>
+            <course reference="536"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="540">
+            <id>310</id>
+            <course reference="536"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="543">
+            <id>311</id>
+            <course reference="541"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="546">
+            <id>312</id>
+            <course reference="544"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="547">
+            <id>313</id>
+            <course reference="544"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="550">
+            <id>314</id>
+            <course reference="548"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="553">
+            <id>315</id>
+            <course reference="551"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="556">
+            <id>316</id>
+            <course reference="554"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="557">
+            <id>317</id>
+            <course reference="554"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="560">
+            <id>318</id>
+            <course reference="558"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="561">
+            <id>319</id>
+            <course reference="558"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="566">
+            <id>320</id>
+            <course reference="564"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="567">
+            <id>321</id>
+            <course reference="564"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="568">
+            <id>322</id>
+            <course reference="564"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="569">
+            <id>323</id>
+            <course reference="564"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="570">
+            <id>324</id>
+            <course reference="564"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="571">
+            <id>325</id>
+            <course reference="564"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="574">
+            <id>326</id>
+            <course reference="572"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="577">
+            <id>327</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="578">
+            <id>328</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="579">
+            <id>329</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="580">
+            <id>330</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="581">
+            <id>331</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="582">
+            <id>332</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="583">
+            <id>333</id>
+            <course reference="575"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="586">
+            <id>334</id>
+            <course reference="584"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="587">
+            <id>335</id>
+            <course reference="584"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="588">
+            <id>336</id>
+            <course reference="584"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="589">
+            <id>337</id>
+            <course reference="584"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="592">
+            <id>338</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="593">
+            <id>339</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="594">
+            <id>340</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="595">
+            <id>341</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="596">
+            <id>342</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="597">
+            <id>343</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="598">
+            <id>344</id>
+            <course reference="590"/>
+            <lectureIndexInCourse>6</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="601">
+            <id>345</id>
+            <course reference="599"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="602">
+            <id>346</id>
+            <course reference="599"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="603">
+            <id>347</id>
+            <course reference="599"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="606">
+            <id>348</id>
+            <course reference="604"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="607">
+            <id>349</id>
+            <course reference="604"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="608">
+            <id>350</id>
+            <course reference="604"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="611">
+            <id>351</id>
+            <course reference="609"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="614">
+            <id>352</id>
+            <course reference="612"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="615">
+            <id>353</id>
+            <course reference="612"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="618">
+            <id>354</id>
+            <course reference="616"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="621">
+            <id>355</id>
+            <course reference="619"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="624">
+            <id>356</id>
+            <course reference="622"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="625">
+            <id>357</id>
+            <course reference="622"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="628">
+            <id>358</id>
+            <course reference="626"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="629">
+            <id>359</id>
+            <course reference="626"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="634">
+            <id>360</id>
+            <course reference="632"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="635">
+            <id>361</id>
+            <course reference="632"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="636">
+            <id>362</id>
+            <course reference="632"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="637">
+            <id>363</id>
+            <course reference="632"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="638">
+            <id>364</id>
+            <course reference="632"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="639">
+            <id>365</id>
+            <course reference="632"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="643">
+            <id>366</id>
+            <course reference="641"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="646">
+            <id>367</id>
+            <course reference="644"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="647">
+            <id>368</id>
+            <course reference="644"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="648">
+            <id>369</id>
+            <course reference="644"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="649">
+            <id>370</id>
+            <course reference="644"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="650">
+            <id>371</id>
+            <course reference="644"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="651">
+            <id>372</id>
+            <course reference="644"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="654">
+            <id>373</id>
+            <course reference="652"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="655">
+            <id>374</id>
+            <course reference="652"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="656">
+            <id>375</id>
+            <course reference="652"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="657">
+            <id>376</id>
+            <course reference="652"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="660">
+            <id>377</id>
+            <course reference="658"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="661">
+            <id>378</id>
+            <course reference="658"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="662">
+            <id>379</id>
+            <course reference="658"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="663">
+            <id>380</id>
+            <course reference="658"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="664">
+            <id>381</id>
+            <course reference="658"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="665">
+            <id>382</id>
+            <course reference="658"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="668">
+            <id>383</id>
+            <course reference="666"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="669">
+            <id>384</id>
+            <course reference="666"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="670">
+            <id>385</id>
+            <course reference="666"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="671">
+            <id>386</id>
+            <course reference="666"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="672">
+            <id>387</id>
+            <course reference="666"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="676">
+            <id>388</id>
+            <course reference="674"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="677">
+            <id>389</id>
+            <course reference="674"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="680">
+            <id>390</id>
+            <course reference="678"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="683">
+            <id>391</id>
+            <course reference="681"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="684">
+            <id>392</id>
+            <course reference="681"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="687">
+            <id>393</id>
+            <course reference="685"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="690">
+            <id>394</id>
+            <course reference="688"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="691">
+            <id>395</id>
+            <course reference="688"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="694">
+            <id>396</id>
+            <course reference="692"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="697">
+            <id>397</id>
+            <course reference="695"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="700">
+            <id>398</id>
+            <course reference="698"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="701">
+            <id>399</id>
+            <course reference="698"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="707">
+            <id>400</id>
+            <course reference="705"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="708">
+            <id>401</id>
+            <course reference="705"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="709">
+            <id>402</id>
+            <course reference="705"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="710">
+            <id>403</id>
+            <course reference="705"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="711">
+            <id>404</id>
+            <course reference="705"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="712">
+            <id>405</id>
+            <course reference="705"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="715">
+            <id>406</id>
+            <course reference="713"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="718">
+            <id>407</id>
+            <course reference="716"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="719">
+            <id>408</id>
+            <course reference="716"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="720">
+            <id>409</id>
+            <course reference="716"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="721">
+            <id>410</id>
+            <course reference="716"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="722">
+            <id>411</id>
+            <course reference="716"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="723">
+            <id>412</id>
+            <course reference="716"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="726">
+            <id>413</id>
+            <course reference="724"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="727">
+            <id>414</id>
+            <course reference="724"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="728">
+            <id>415</id>
+            <course reference="724"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="729">
+            <id>416</id>
+            <course reference="724"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="732">
+            <id>417</id>
+            <course reference="730"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="733">
+            <id>418</id>
+            <course reference="730"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="734">
+            <id>419</id>
+            <course reference="730"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="735">
+            <id>420</id>
+            <course reference="730"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="736">
+            <id>421</id>
+            <course reference="730"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="737">
+            <id>422</id>
+            <course reference="730"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="740">
+            <id>423</id>
+            <course reference="738"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="741">
+            <id>424</id>
+            <course reference="738"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="742">
+            <id>425</id>
+            <course reference="738"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="743">
+            <id>426</id>
+            <course reference="738"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="746">
+            <id>427</id>
+            <course reference="744"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="747">
+            <id>428</id>
+            <course reference="744"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="750">
+            <id>429</id>
+            <course reference="748"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="751">
+            <id>430</id>
+            <course reference="748"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="754">
+            <id>431</id>
+            <course reference="752"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="755">
+            <id>432</id>
+            <course reference="752"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="758">
+            <id>433</id>
+            <course reference="756"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="761">
+            <id>434</id>
+            <course reference="759"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="762">
+            <id>435</id>
+            <course reference="759"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="765">
+            <id>436</id>
+            <course reference="763"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="768">
+            <id>437</id>
+            <course reference="766"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="771">
+            <id>438</id>
+            <course reference="769"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="772">
+            <id>439</id>
+            <course reference="769"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="777">
+            <id>440</id>
+            <course reference="775"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="778">
+            <id>441</id>
+            <course reference="775"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="779">
+            <id>442</id>
+            <course reference="775"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="780">
+            <id>443</id>
+            <course reference="775"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="781">
+            <id>444</id>
+            <course reference="775"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="782">
+            <id>445</id>
+            <course reference="775"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="785">
+            <id>446</id>
+            <course reference="783"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="788">
+            <id>447</id>
+            <course reference="786"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="789">
+            <id>448</id>
+            <course reference="786"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="790">
+            <id>449</id>
+            <course reference="786"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="791">
+            <id>450</id>
+            <course reference="786"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="794">
+            <id>451</id>
+            <course reference="792"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="795">
+            <id>452</id>
+            <course reference="792"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="796">
+            <id>453</id>
+            <course reference="792"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="797">
+            <id>454</id>
+            <course reference="792"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="800">
+            <id>455</id>
+            <course reference="798"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="801">
+            <id>456</id>
+            <course reference="798"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="802">
+            <id>457</id>
+            <course reference="798"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="803">
+            <id>458</id>
+            <course reference="798"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="804">
+            <id>459</id>
+            <course reference="798"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="805">
+            <id>460</id>
+            <course reference="798"/>
+            <lectureIndexInCourse>5</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="808">
+            <id>461</id>
+            <course reference="806"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="809">
+            <id>462</id>
+            <course reference="806"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="810">
+            <id>463</id>
+            <course reference="806"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="811">
+            <id>464</id>
+            <course reference="806"/>
+            <lectureIndexInCourse>3</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="812">
+            <id>465</id>
+            <course reference="806"/>
+            <lectureIndexInCourse>4</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="815">
+            <id>466</id>
+            <course reference="813"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="816">
+            <id>467</id>
+            <course reference="813"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="817">
+            <id>468</id>
+            <course reference="813"/>
+            <lectureIndexInCourse>2</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="820">
+            <id>469</id>
+            <course reference="818"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="821">
+            <id>470</id>
+            <course reference="818"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="824">
+            <id>471</id>
+            <course reference="822"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="825">
+            <id>472</id>
+            <course reference="822"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="828">
+            <id>473</id>
+            <course reference="826"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="831">
+            <id>474</id>
+            <course reference="829"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="832">
+            <id>475</id>
+            <course reference="829"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="835">
+            <id>476</id>
+            <course reference="833"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="838">
+            <id>477</id>
+            <course reference="836"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="841">
+            <id>478</id>
+            <course reference="839"/>
+            <lectureIndexInCourse>0</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+        <Lecture id="842">
+            <id>479</id>
+            <course reference="839"/>
+            <lectureIndexInCourse>1</lectureIndexInCourse>
+            <locked>false</locked>
+        </Lecture>
+    </lectureList>
+</CourseSchedule>
